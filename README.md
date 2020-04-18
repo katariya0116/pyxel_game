@@ -1,4 +1,4 @@
-こちらは以下のライブラリを使って作成しています
+こちらのコードは以下のライブラリを使って作成しています
 
 pyxel
 https://github.com/kitao/pyxel/blob/master/README.ja.md
